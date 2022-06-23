@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "ecommerce website",
   "engine": {
-    "node": "16.14.2",
-    "npm": "8.5.0"
+    "node": "16.14.2"
   },
   "main": "server.js",
   "scripts": {
