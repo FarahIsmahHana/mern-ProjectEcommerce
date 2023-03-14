@@ -18,4 +18,3 @@ https://nodemailer.com/about/
 https://www.emailjs.com/
 
 ============================== CONNECTS WITH ME ========================
-INSTAGRAM: https://www.instagram.com/ram_alamsyah/
